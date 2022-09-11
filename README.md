@@ -6,7 +6,7 @@ A  violence detector using `MobileNetV2` pretrained model and image enhancement 
 ![alt text](https://github.com/Subhrajit-Dutta/No_to_Assault/blob/master/Infrastructure.png)
 
 ## Explanation
-<img src="Documents/poster.PNG">
+![alt text](https://github.com/Subhrajit-Dutta/No_to_Assault/blob/master/methodology.png)
 
 ## Stage 1 (Human Detection) ✔✔
 A real-time human detector using `Faster RCNN Inception V2 COCO model`, implemented using Python. Main purpose was comparing 3 pretrained models for speed and accuracy.
